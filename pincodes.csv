@@ -1,0 +1,586 @@
+id,name,pincode
+1,Anand Vihar,110092
+2,Azad Nagar East Delhi,110051
+3,Babarpur North East Delhi,110032
+4,Badarpur Khadar,110090
+5,Balbir Nagar,110032
+6,Bhajan Pura,110053
+7,Bhola Nath Nagar,110032
+8,Brahampuri,110053
+9,Chilla,110091
+10,Dayalpur,110094
+11,Dilshad Garden,110095
+12,Distt Court KKD,110032
+13,G T B Hospital,110095
+14,Gandhi Nagar Bazar,110031
+15,Gandhi Nagar East Delhi,110031
+16,Garhi Mandu,110053
+17,Geeta Colony,110031
+18,Ghazipur,110096
+19,Ghonda,110053
+20,Gokal Puri,110094
+21,Goverdhan Bihari Colony,110032
+22,Govind Pura,110051
+23,Harsh Vihar,110093
+24,Himmatpuri,110091
+25,IP Extension,110092
+26,Jafrabad East Delhi,110053
+27,Jagjit Nagar,110053
+28,Jhilmil,110095
+29,Jhilmil Tahirpur,110095
+30,Johripur,110094
+31,Kailash Nagar,110031
+32,Kalyanpuri,110091
+33,Kalyanvas,110091
+34,Karawal Nagar,110090
+35,Khazuri Khas,110094
+36,Krishna Nagar,110051
+37,Laxmi Nagar East Delhi,110092
+38,Loni Road Housing Complex,110093
+39,Loni Road,110032
+40,Man Sarovar Park,110032
+41,Mandawali Fazalpur,110092
+42,Mandoli Saboli,110093
+43,Maujpur,110053
+44,Mayur Vihar Ph I,110091
+45,Mayur Vihar Ph III,110096
+46,Nand Nagri A,110093
+47,Nand Nagri C,110093
+48,New Seemapuri,110095
+49,New Usmanpur,110053
+50,Nirman Vihar,110092
+51,Old Seemapuri,110095
+52,Patparganj,110091
+53,Raghubar Pura,110031
+54,Rajgarh Colony,110031
+55,Ram Nagar East Delhi,110051
+56,Rohtash Nagar,110032
+57,Sabhapur,110094
+58,Seelampur,110053
+59,Shahdara Mandi,110032
+60,Shahdara,110032
+61,Shaheed Bhagat Singh Colony,110090
+62,Shakarpur,110092
+63,Shastri Nagar East Delhi,110031
+64,Shivaji Park East Delhi,110032
+65,Shriram Colony Rajeev Nagar,110090
+66,Sonia Vihar,110090
+67,Sunder Nagari,110093
+68,Surajmal Vihar,110092
+69,Telewara,110032
+70,Trilok Puri,110091
+71,V K Nagar,110095
+72,Vasundhra Enclave,110096
+73,Vishwas Nagar,110032
+74,Vivek Vihar,110095
+75,Yamuna Vihar,110053
+76,Yozna Vihar,110092
+77,Delhi G P O,110006
+78,Adrash Nagar,110033
+79,Alipur,110036
+80,Anandvas Shakurpur,110034
+81,Aruna Nagar,110054
+82,Ashok Vihar,110052
+83,Auchandi,110039
+84,Avantika,110085
+85,Badli North West Delhi,110042
+86,Bakhtawar Pur,110036
+87,Bakoli,110036
+88,Bankner,110040
+89,Baratooti,110006
+90,Barwala,110039
+91,Bawana,110039
+92,Begumpur,110086
+93,Bhalaswa,110033
+94,Bhorgarh,110040
+95,Budh Vihar,110086
+96,Burari,110084
+97,C C I,110007
+98,Chand Pur,110081
+99,Chandni Chowk,110006
+100,Chawri Bazar,110006
+101,Civil Lines North Delhi,110054
+102,Dareeba,110006
+103,Daryapur Kalan,110039
+104,Delhi Engg College,110042
+105,Delhi Sadar Bazar,110006
+106,Delhi University,110007
+107,District Courts North Delhi,110054
+108,Dr Mukerjee Nagar,110009
+109,G T B Nagar,110009
+110,Ganeshpura,110035
+111,Gheora,110081
+112,Ghoga,110039
+113,Gujranwala Colony,110009
+114,Gulabi Bagh,110007
+115,H S Sangh,110009
+116,Haiderpur,110088
+117,Hareveli,110039
+118,Hiranki,110036
+119,Holambi Kalan,110082
+120,Jagatpur,110084
+121,Jahangir Puri A Block,110033
+122,Jahangir Puri D Block,110033
+123,Jahangir Puri H Block,110033
+124,Jat Khore,110039
+125,Jaunti,110081
+126,Jawahar Nagar North Delhi,110007
+127,Jharoda Majraa,110084
+128,Kadipur,110036
+129,Kamla Nagar North Delhi,110007
+130,Kanjhawla,110081
+131,Kanya Gurukul,110040
+132,Karala,110081
+133,Katewara,110039
+134,Keshav Puram North West Delhi,110035
+135,Khampur,110036
+136,Khera Kalan,110082
+137,Khera Khurd,110082
+138,Lad Pur,110081
+139,Lampur,110040
+140,Majnu ka Tila,110054
+141,Majra Dabas,110081
+142,Malka Ganj,110007
+143,Mangolpuri A Block,110083
+144,Mangolpuri I Block,110083
+145,Mangolpuri N Block,110083
+146,Mangolpuri S Block,110083
+147,Maurya Enclave,110034
+148,Model Town II,110009
+149,Model Town III,110009
+150,Mubarak Pur Dabas,110081
+151,Mukhmelpur,110036
+152,Mungeshpur,110039
+153,N S Mandi,110033
+154,Naharpur,110085
+155,Nangal Poona,110036
+156,Nangal Thakran,110039
+157,Narela,110040
+158,Naya Bans,110082
+159,New Multan Nagar,110056
+160,Nimri,110052
+161,Nirankari Colony,110009
+162,Nizampur,110081
+163,Onkar Nagar,110035
+164,Padam Nagar North Delhi,110007
+165,Palla,110036
+166,Patrachar Vidyalay,110054
+167,Pehlad Pur,110042
+168,Pooth Kalan,110086
+169,Pooth Kalan Resettlement,110086
+170,Pooth Khurd,110039
+171,Power House,110035
+172,Prashant Vihar,110085
+173,Prem Nagar,110086
+174,Punjab Khor,110081
+175,Qutabagarh,110039
+176,R C A O,110007
+177,Rampura,110035
+178,Rana Pratap Bagh,110007
+179,Rani Bagh,110034
+180,Rani Khera,110081
+181,Rithala,110085
+182,Rohini Courts,110085
+183,Rohini Sec 11,110085
+184,Rohini Sector 15,110089
+185,Rohini Sector 5,110085
+186,Rohini Sector 7,110085
+187,Roop Nagar,110007
+188,Roshan Ara Road,110007
+189,S T Road,110006
+190,Samai Pur,110042
+191,Sanoth,110040
+192,Sarai Rohilla,110035
+193,Saraswati Vihar,110034
+194,Satyawati Nagar,110052
+195,Shahbad Daulatpur,110042
+196,Shakti Nagar North Delhi,110007
+197,Shakur Basti Depot,110056
+198,Shakur Pur I Block,110034
+199,Shakurbasti Rs,110034
+200,Shalamar,110088
+201,Shalimar Bagh North West Delhi,110088
+202,Shastri Nagar North West Delhi,110052
+203,Singhu,110040
+204,Siraspur,110042
+205,Sri Nagar Colony,110034
+206,Sultanpuri B Block,110086
+207,Sultanpuri C Block,110086
+208,Sultanpuri F Block,110086
+209,Tajpur Kalan,110036
+210,Tikri Khurd,110040
+211,Timarpur,110054
+212,Wazir Pur III,110052
+213,Wazirabad Village,110084
+214,A G C R,110002
+215,A K Market,110055
+216,Ajmeri Gate Extn,110002
+217,Anand Parbat Indl Area,110005
+218,Anand Parbat,110005
+219,Bank Street Central Delhi,110005
+220,Baroda House,110001
+221,Bengali Market,110001
+222,Bhagat Singh Market,110001
+223,Connaught Place,110001
+224,Constitution House,110001
+225,Dada Ghosh Bhawan,110008
+226,Darya Ganj,110002
+227,Delhi High Court Extension Counter,110003
+228,Delhi High Court,110003
+229,Desh Bandhu Gupta Road,110005
+230,Election Commission,110001
+231,Gandhi Smarak Nidhi,110002
+232,Guru Gobind Singh Marg,110005
+233,Hauz Qazi,110006
+234,I A R I,110012
+235,I P Estate,110002
+236,Inderpuri,110012
+237,Indraprastha,110002
+238,Jama Masjid,110006
+239,Janpath,110001
+240,Karol Bagh,110005
+241,Krishi Bhawan,110001
+242,Lady Harding Medical College,110001
+243,Master Prithvi Nath Marg,110005
+244,Minto Road,110002
+245,Multani Dhanda,110055
+246,National Physical Laboratory,110012
+247,Nirman Bhawan,110011
+248,North Avenue,110001
+249,Pahar Ganj,110055
+250,Pandara Road,110003
+251,Parliament House,110001
+252,Patel Nagar East,110008
+253,Patel Nagar Central Delhi,110008
+254,Patel Nagar South,110008
+255,Patel Nagar West,110008
+256,Patiala House,110001
+257,Pragati Maidan Camp,110001
+258,Pragati Maidan,110001
+259,Rail Bhawan,110001
+260,Rajender Nagar,110060
+261,Rashtrapati Bhawan,110004
+262,Sansad Marg,110001
+263,Sansadiya Soudh,110001
+264,Sat Nagar,110005
+265,Secretariat North,110001
+266,Shastri Bhawan,110001
+267,South Avenue,110011
+268,Supreme Court,110001
+269,Swami Ram Tirth Nagar,110055
+270,Udyog Bhawan,110011
+271,Union Public Service Commission,110069
+272,New Delhi G P O,110001
+273,Abul Fazal Enclave I,110025
+274,Air Force Station Tugalkabad,110062
+275,Alaknanda,110019
+276,Ali,110076
+277,Aliganj South Delhi,110003
+278,Amar Colony,110024
+279,Andrewsganj,110049
+280,Badarpur South Delhi,110044
+281,BSF Camp Tigri,110062
+282,BTPS South Delhi,110044
+283,C G O Complex,110003
+284,C R R I South Delhi,110020
+285,Chittranjan Park,110019
+286,Dakshinpuri Phase I,110062
+287,Dakshinpuri Phase II,110062
+288,Dakshinpuri Phase III,110062
+289,Dargah Sharif,110013
+290,Defence Colony South Delhi,110024
+291,Deoli,110062
+292,"Distt Court Complex, Saket",110017
+293,Dr Ambedkar Nagar South Delhi,110062
+294,East Of Kailash Phase I,110065
+295,East Of Kailash,110065
+296,F F C Okhla,110020
+297,Gautam Nagar,110049
+298,Golf Links,110003
+299,Greater Kailash,110048
+300,Gulmohar Park,110049
+301,Hamdard Nagar,110062
+302,Hari Nagar Ashram,110014
+303,Hazrat Nizamuddin,110013
+304,Jaitpur,110044
+305,Jaitpur South Delhi,110044
+306,Jamia Nagar,110025
+307,Jeevan Nagar,110014
+308,Jungpura,110014
+309,Kailash Colony,110048
+310,Kalkaji,110019
+311,Kasturba Nagar South Delhi,110003
+312,Khanpur South Delhi,110062
+313,Krishna Market,110024
+314,Lajpat Nagar South Delhi,110024
+315,Lal Kuan,110044
+316,Lodi Road,110003
+317,Madanpur Khadar,110076
+318,Malviya Nagar South Delhi,110017
+319,Masjid Moth,110048
+320,MMTC STC Colony,110017
+321,Molarband,110044
+322,Nehru Nagar South Delhi,110065
+323,Nehru Place,110019
+324,New Delhi South Ext II,110049
+325,New Friends Colony,110025
+326,Okhla Industrial Area Phase I,110020
+327,Okhla Industrial Estate,110020
+328,Panchsheel Enclave,110017
+329,Pragati Vihar,110003
+330,Pratap Market,110014
+331,Pul Pahladpur,110044
+332,Pushp Vihar,110017
+333,Pushpa Bhawan,110062
+334,Sadiq Nagar,110049
+335,Safdarjung Air Port,110003
+336,Sahpurjat,110049
+337,Saket South Delhi,110017
+338,Sangam Vihar,110080
+339,Sant Nagar South Delhi,110065
+340,Sarita Vihar,110076
+341,Sarvodya Enclave,110017
+342,South Malviya Nagar,110017
+343,Sriniwaspuri,110065
+344,Sukhdev Vihar,110025
+345,Talimabad,110062
+346,Tehkhand,110020
+347,Tugalkabad,110044
+348,Tugalkabad Railway Colony,110044
+349,Zakir Nagar,110025
+350,505 A B Workshop,110010
+351,A F Palam,110010
+352,A F Rajokari,110038
+353,Anand Niketan,110021
+354,Ansari Nagar,110029
+355,Aps Colony,110010
+356,Arjungarh,110047
+357,Aya Nagar,110047
+358,Bazar Road,110010
+359,Bijwasan,110061
+360,C S K M School,110074
+361,C V D,110010
+362,Chanakya Puri,110021
+363,Chandanhoola,110074
+364,Chattarpur,110074
+365,COD South West Delhi,110010
+366,Delhi Cantt,110010
+367,Dera,110074
+368,Dhaula Kuan,110010
+369,Fatehpur Beri,110074
+370,Gadaipur,110030
+371,Ghitorni,110030
+372,Green Park Market,110016
+373,Gurgaon Road,110037
+374,Hauz Khas Market,110016
+375,Hauz Khas,110016
+376,IGI Airport,110037
+377,Ignou,110068
+378,IT Hauz Khas,110016
+379,J N U,110067
+380,Jaunapur,110047
+381,JNU New Campus,110067
+382,Kapashera,110097
+383,Kidwai Nagar East,110023
+384,Kidwai Nagar West,110023
+385,Kirby Place,110010
+386,Lado Sarai,110030
+387,Laxmi Bai Nagar,110023
+388,Mahipalpur,110037
+389,Maidan Garhi,110068
+390,Malcha Marg,110021
+391,Mandi,110047
+392,Masood Pur,110070
+393,Mehrauli,110030
+394,Moti Bagh,110021
+395,Munirka,110067
+396,Nanak Pura,110021
+397,Nangal Dewat,110037
+398,Nauroji Nagar,110029
+399,Netaji Nagar South West Delhi,110023
+400,NIE Campus,110016
+401,Palam Airport,110037
+402,Paryavaran Complex,110030
+403,Pinto Park,110010
+404,R K Puram Main,110066
+405,R K Puram Sect 1,110022
+406,R K Puram Sect 12,110022
+407,R K Puram Sect 3,110022
+408,R K Puram Sect 4,110022
+409,R K Puram Sect 5,110022
+410,R K Puram Sect7,110022
+411,R K Puram Sect 8,110022
+412,R K Puram Sector 6 Postal SB,110022
+413,R K Puram West,110066
+414,R R Hospital,110010
+415,Rajokari,110038
+416,Safdarjung Enclave,110029
+417,Sanjay Colony Bhati Mines,110074
+418,Sarojini Nagar,110023
+419,Satbari,110074
+420,Sawan Public School,110074
+421,Shahbad Mohammadpur,110061
+422,Signal Enclave,110010
+423,South Delhi Campus,110021
+424,Station Road South West Delhi,110010
+425,Subroto Park,110010
+426,Sultanpur,110030
+427,T B Hospital,110030
+428,Technology Bhawan,110016
+429,Vasant Kunj Pkt A,110070
+430,Vasant Kunj,110070
+431,Vasant Vihar 1,110057
+432,Vasant Vihar 2,110057
+433,Amberhai,110075
+434,Ashok Nagar West Delhi,110018
+435,Ashoka Park Extn,110026
+436,Badusarai,110071
+437,Bagdola,110077
+438,Bakkarwala,110041
+439,Baprola,110043
+440,Barthal,110077
+441,Chand Nagar,110018
+442,Chaukhandi,110018
+443,Chhawla,110071
+444,CRPF Jharoda Kalan,110072
+445,D K Mohan Garden,110059
+446,D E S U Colony,110058
+447,Dabri,110045
+448,Daulatpur,110043
+449,DC Goyla,110071
+450,Delhi Industrial Area,110015
+451,Dhansa,110073
+452,Dhulsiras,110077
+453,Dichaun Kalan,110043
+454,Dindarpur,110043
+455,District Court Complex Dwarka,110075
+456,"Distt Court Complex, Dwarka",110078
+457,Dwarka Sec 6,110075
+458,ESI,110015
+459,Fateh Nagar,110018
+460,Galib Pur,110073
+461,GGSIP University,110078
+462,Ghuman Hera,110073
+463,Hari Nagar BE Block,110064
+464,Hari Nagar Dadb Block,110064
+465,Hari Nagar West Delhi,110064
+466,Hastal Village,110059
+467,Hirankudna,110041
+468,Indira Park,110045
+469,Issapur,110073
+470,Jafarpur,110073
+471,Jail Road West Delhi,110058
+472,Janakpuri A3,110058
+473,Janakpuri B1,110058
+474,Janakpuri C4,110058
+475,Janta Market,110027
+476,Jawala Heri,110063
+477,Jeevan Park,110059
+478,Jharoda Kalan,110072
+479,Jhatikara,110043
+480,Jwala Puri,110087
+481,Kair,110028
+482,Kakrola,110078
+483,Kangan Heri,110071
+484,Karam Pura,110015
+485,Khaira,110028
+486,Khera Dabur,110073
+487,Khyala Phase I,110018
+488,Khyala Phase II,110018
+489,L M Nagar Indl Area,110015
+490,M B S Nagar,110018
+491,Madipur Slum Quarter,110063
+492,Madipur Village,110063
+493,Mahabir Nagar,110018
+494,Malik Pur,110073
+495,Mansarover Garden,110015
+496,Matiala,110059
+497,Maya Puri,110064
+498,Mayapuri Shopping Centre,110064
+499,Mitraon,110043
+500,Mundela Kalan,110073
+501,Mundka,110041
+502,N I Area,110015
+503,N S I T Dwarka,110078
+504,Najafgarh,110043
+505,Nangal Raya,110046
+506,Nangloi II,110041
+507,Nangloi III,110041
+508,Nangloi,110041
+509,Naraina Industrial Estate,110028
+510,Naraina Village,110028
+511,Nasirpur,110045
+512,Nilothi,110041
+513,Palam Extn Harijan Basti,110077
+514,Palam Village,110045
+515,Pandwala Kalan,110043
+516,Papravat,110043
+517,Paschim Vihar B Block,110063
+518,Paschim Vihar,110063
+519,Peeragarhi,110063
+520,Punjabi Bagh,110026
+521,Punjabi Bagh Sec III,110026
+522,Quazipur,110073
+523,Raj Nagar II,110077
+524,Rajouri Garden J6,110027
+525,Rajouri Market,110027
+526,Ramesh Nagar,110015
+527,Ranhola,110041
+528,Raota,110073
+529,Rewla Khanpur,110043
+530,Sagarpur,110046
+531,Shivaji Park West Delhi,110026
+532,Subhash Nagar West Delhi,110027
+533,Subhash Nagar West,110027
+534,Sunder Vihar,110087
+535,Surehra,110043
+536,Tagore Garden,110027
+537,Tikri Kalan,110041
+538,Tilak Nagar East,110018
+539,Tilak Nagar West Delhi,110018
+540,Tilangpur Kotla,110043
+541,Ujwa,110073
+542,Uttam Nagar,110059
+543,Vikas Puri,110018
+544,Vishnu Garden,110018
+545,Zakhira,110015
+546,New Nathupura,110084
+547,AGCR Extension,110002
+548,Civic Centre,110002
+549,IP Estate,110002
+550,Nathupura Village,110084
+551,Rouse Avenue Extension,110002
+552,SRT Nagar Extension,110055
+553,Laxmi Nagar Extension,110092
+554,CAT Extension,110001
+555,NGT Extension,110001
+556,RML Extn,110001
+557,Mukundpur Village,110042
+558,Narela Town,110040
+559,NS Mandi,110033
+560,Shahbad Dairy,110042
+561,Housing Complex Loni Road,110093
+562,Khajoori Khas,110090
+563,Vishwakarma Nagar,110095
+564,C4 Keshav Puram North West Delhi,110035
+565,H S School,110081
+566,Inderlok,110035
+567,Kirari Suleman Nagar,110086
+568,Nodal Delivery Centre Parcel Rohini,110110
+569,Rohini Sector 15 Extension,110089
+570,Rohini Sector 16,110085
+571,Rohini Sector 23,110099
+572,Bhati Village,110074
+573,Meethapur,110044
+574,Tughlaqabad Village,110044
+575,Arjun Park,110043
+576,Durga Park,110043
+577,Gopal Nagar,110043
+578,Mahavir Enclave,110045
+579,Qutub Vihar,110071
+580,Shyam Vihar,110043
+581,K5 Extn Mohan Garden,110059
+582,Kunwar Singh Nagar,110041
+583,Moti Nagar,110015
+584,Neelwal,110041
+585,Sanjay Enclave,110059
